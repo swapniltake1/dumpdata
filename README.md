@@ -70,6 +70,14 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions are welcome! If you would like to contribute to this project, please open an issue or create a pull request with your proposed changes.
 
+## Screenshots
+
+![image](https://github.com/swapniltake1/dumpdata/assets/61576958/d7be29ca-cf89-4f6b-8a3c-aeb6eff4d7d0)
+
+![image](https://github.com/swapniltake1/dumpdata/assets/61576958/26e30306-b460-4ab1-9a01-4e1bba1ec8b0)
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
